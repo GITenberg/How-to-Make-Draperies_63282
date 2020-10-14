@@ -1,0 +1,25 @@
+_repo: How-to-Make-Draperies_63282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Singer Sewing Machine Company
+    gutenberg_agent_id: '52341'
+    url: http://www.gutenberg.org/2009/agents/52341
+    wikipedia: https://en.wikipedia.org/wiki/Singer_Corporation
+description: ''
+gutenberg_issued: '2020-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Singer Sewing Library, No. 102
+subjects:
+- !lcsh 'Sewing'
+- !lcsh 'Draperies'
+- !lcc 'TT'
+- GITenberg
+title: How to Make Draperies
+url: http://www.gutenberg.org/ebooks/63282
